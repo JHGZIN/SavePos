@@ -1,0 +1,2 @@
+AddPlayerClass(280, 1532.1, -1678.4, 13.5, 90.0, 0, 0, 0, 0, 0, 0); //SpawnInicial
+AddStaticVehicle(411, 1535.0, -1670.5, 13.5, 180.0, 0, 0); //Infernus
