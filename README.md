@@ -70,7 +70,8 @@ Essas funções são utilizadas internamente para formatação e gravação no a
 ```
 📁 samp-server/
  ┣ 📁 filterscripts/
- ┃ ┗ 📄 SavePosPro.amx
+ ┃ ┗ 📄 SavePos.amx
+ ┣ 📁 scriptfiles/
+ ┃ ┗ 📄 Positions.txt
  ┣ 📄 server.cfg
- ┗ 📄 Positions.txt
 ```
