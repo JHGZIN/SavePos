@@ -18,7 +18,7 @@ Com o comando `/SavePos`, você pode capturar a posição do jogador ou do veíc
 2. Coloque o `SavePos.amx` na pasta **`filterscripts`** do seu servidor.  
 3. No arquivo `server.cfg`, adicione:
    ```bash
-   filterscripts SavePosPro
+   filterscripts SavePos
 
 4. Inicie o servidor normalmente.
 
